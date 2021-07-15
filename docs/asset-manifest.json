@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec2c23a1.chunk.css",
-    "main.js": "/static/js/main.dedb4b96.chunk.js",
-    "main.js.map": "/static/js/main.dedb4b96.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b53cfd56.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b53cfd56.js.map",
-    "static/js/2.19065ee6.chunk.js": "/static/js/2.19065ee6.chunk.js",
-    "static/js/2.19065ee6.chunk.js.map": "/static/js/2.19065ee6.chunk.js.map",
-    "static/js/3.cbd41c98.chunk.js": "/static/js/3.cbd41c98.chunk.js",
-    "static/js/3.cbd41c98.chunk.js.map": "/static/js/3.cbd41c98.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ec2c23a1.chunk.css.map": "/static/css/main.ec2c23a1.chunk.css.map",
-    "static/js/2.19065ee6.chunk.js.LICENSE.txt": "/static/js/2.19065ee6.chunk.js.LICENSE.txt",
-    "static/media/briefcase.9908b0db.svg": "/static/media/briefcase.9908b0db.svg",
-    "static/media/App.scss": "/static/media/cover.eda1bb75.jpg",
-    "static/media/right-arrow.91c00e43.svg": "/static/media/right-arrow.91c00e43.svg",
-    "static/media/right-arrow2.eaa26fd7.svg": "/static/media/right-arrow2.eaa26fd7.svg"
+    "main.css": "./static/css/main.bfb92346.chunk.css",
+    "main.js": "./static/js/main.dedb4b96.chunk.js",
+    "main.js.map": "./static/js/main.dedb4b96.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.743817d6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.743817d6.js.map",
+    "static/js/2.19065ee6.chunk.js": "./static/js/2.19065ee6.chunk.js",
+    "static/js/2.19065ee6.chunk.js.map": "./static/js/2.19065ee6.chunk.js.map",
+    "static/js/3.cbd41c98.chunk.js": "./static/js/3.cbd41c98.chunk.js",
+    "static/js/3.cbd41c98.chunk.js.map": "./static/js/3.cbd41c98.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.bfb92346.chunk.css.map": "./static/css/main.bfb92346.chunk.css.map",
+    "static/js/2.19065ee6.chunk.js.LICENSE.txt": "./static/js/2.19065ee6.chunk.js.LICENSE.txt",
+    "static/media/briefcase.9908b0db.svg": "./static/media/briefcase.9908b0db.svg",
+    "static/media/App.scss": "./static/media/cover.eda1bb75.jpg",
+    "static/media/right-arrow.91c00e43.svg": "./static/media/right-arrow.91c00e43.svg",
+    "static/media/right-arrow2.eaa26fd7.svg": "./static/media/right-arrow2.eaa26fd7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b53cfd56.js",
+    "static/js/runtime-main.743817d6.js",
     "static/js/2.19065ee6.chunk.js",
-    "static/css/main.ec2c23a1.chunk.css",
+    "static/css/main.bfb92346.chunk.css",
     "static/js/main.dedb4b96.chunk.js"
   ]
 }
