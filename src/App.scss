@@ -1,0 +1,56 @@
+.cover-image {
+  height: 450px;
+  background: url(./assets/cover.jpg);
+  margin-bottom: 40px;
+}
+
+.cover-text {
+  padding-top: 150px;
+}
+
+.second {
+  margin-bottom: 200px;
+}
+
+.more-jobs-arrow {
+  svg {
+    width: 15px;
+    height: 15px;
+  }
+}
+
+.jobs {
+  .job-card-wrapper {
+    border-right: 2px solid #ddd;
+    &:last-child {
+      border-right: none;
+    }
+  }
+}
+
+.see-more {
+  padding-right: 10px;
+  svg {
+    height: 16px;
+    width: 16px;
+    vertical-align: -10%;
+  }
+}
+
+.company-wrapper {
+  border: 1px solid #aaa;
+  border-radius: 50%;
+  float: left;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  svg {
+    height: 30px;
+    width: 30px;
+  }
+}
